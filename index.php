@@ -15,7 +15,7 @@ if (!isset($_SESSION['email'])) {
 </head>
 <body>
 <div class="container w-75">
-    <h1 class="my-4">Aplikasi Perpustakaan</h1>
+    <h1 class="my-4">Aplikasi Perpustakaan versi 3</h1>
     
     <a class="btn btn-primary" href="./buku.php">Lihat Daftar Buku</a>
     <a class="btn btn-success" href="./staff.php">Lihat Daftar Staff</a>
